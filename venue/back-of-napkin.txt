@@ -1,0 +1,164 @@
+Summer:
+Weekends: 
+Friday - Sunday 
+April - October
+Total number of days: 84
+
+Holidays:
+Memorial Day 
+4th of July
+Labor Day
+Juneteenth
+Halloween
+Total number of days: 5
+
+Winter:
+Weekends: 
+Friday - Sunday 
+
+Total number of days: 66
+
+Holidays:
+New Year's Day
+Valentine's Day
+New Year's Eve
+Christmas
+President's Day
+
+Total number of days: 5
+
+Assumptions:
+- 90% booking during summer = 75 days
+- 50% booking during summer holidays (some years these will be on weekends and are included in the 75 days) = 2 days
+- 20% booking during winter = 12 days
+- 30% booking during winter holidays = 1 day
+Total = 90 days
+
+Revenue:
+- Average of $7000 per wedding
+
+---
+
+Assumptions (Expanded):
+- Venue capacity: 120 guests per event
+- Each booking includes: venue rental, basic tables/chairs, parking, restroom access, event staff
+- Bookings are for full-day events
+- Pricing is for venue only (no catering, decor, or overnight stays included)
+
+Estimated Expenses (Per Event):
+- Staffing:
+  -- Event coordinator (1): 
+  ---- Main client contact, manages event timeline, coordinates vendors, on-site for 12-14 hours
+  ---- Cost: $70/hour: Total: $840
+  -- Setup/cleanup crew (3): Handles setup and breakdown of tables, chairs, decor, trash removal, on-site for 6-8 hours each
+  ---- Cost: $30/hour: Total: $336
+  -- Parking / Security (1): 
+  ---- Cost: $18/hour: Total: $180
+Note: per hour costs include all costs (insurance, taxes, etc.) so hopefully is a decent estimate.
+  Total: $1350
+
+- Utilities & supplies: $200
+- Total Expenses Per Event: ~$1550
+
+Estimated Expenses (Yearly):
+
+Event Expenses:
+- Staffing: $1350 x 90 = $121,500
+- Utilities & supplies: $200 x 90 = $18,000
+Total Event Expenses: $139,500
+
+Overhead Expenses:
+- Landscaping: $50000
+- Insurance: $20000
+- Property taxes: $20000
+- Property maintenance: $10000
+- Utilities: $20000
+- Marketing: $50000
+- Miscellaneous: $5000
+- Venue management: $100000 (meredith)
+Total Overhead Expenses: $265,000
+Per event (90 events): $2944
+
+Total yearly expenses: $394,500
+
+Add-on Revenue Opportunities:
+- Preferred catering packages
+- Decor rentals
+- Overnight farm stays or glamping
+- Photography partnerships
+- Orchard U-pick events (off-season)
+
+Per Event Profit Estimate:
+- Average revenue per wedding: $7,000
+- Less estimated expenses per event: $1350
+- Less overhead expenses (weighted per event): $2944
+- Projected profit per event: $3,528
+
+Annual Revenue & Profit Estimate:
+- Total booked days: 90
+- Gross revenue: 90 x $7,000 = $630,000
+- Total expenses: 90 x $1550 = $139,500
+- Total overhead expenses: 90 x $2944 = $265,000
+- Simple projected profit: $226,500
+
+
+Extremly rough but we will assume year 1 will be 40% of this, year 2 80% of this and year 3 and beyond 100%
+
+Buildout Cost Estimates (Initial):
+
+1. Indoor "Barn" Event Space (5,000–6,000 sq ft):
+   - Construction, HVAC, electrical, finishes: $750,000 – $1,100,000
+2. Attached Outdoor Wedding Area (pavilion, ceremony site, patio):
+   - Hardscaping, pergola/arch, seating, lighting: $75,000 – $150,000
+3. Parking Area (100 cars, gravel or paved):
+   - Grading, base, paving, striping, drainage: $80,000 – $180,000
+4. Restrooms (permanent, code-compliant, up to 200 guests):
+   - Construction, fixtures, plumbing, ADA compliance: $120,000 – $200,000
+   - Note: Does not include septic system (see below)
+5. Septic System (engineered for 200 guests, commercial use):
+   - Design, permitting, excavation, tank, drain field: $40,000 – $100,000
+6. Two Bridal Suites (private rooms, bathrooms):
+   - Construction, finishes, furnishings: $60,000 – $120,000
+7. Landscaping (entry, ceremony site, barn surrounds):
+   - Sod, trees, plantings, irrigation, decorative features: $50,000 – $120,000
+
+Total Estimated Buildout: $1,175,000 – $1,970,000
+
+**Notes:**
+- Septic costs are highly variable and should be confirmed with a local engineer based on soil and code.
+- These are high-level estimates. Actual costs may vary widely by region, design, and materials.
+- Excludes land acquisition, major utility upgrades beyond septic, permits/fees, and contingency.
+- Get multiple quotes from local builders for accuracy.
+
+Financing & Payback Estimate:
+
+- Assumed buildout loan: $1,500,000 (midpoint of estimate)
+- Interest rate (SBA loan): 7%
+- Loan term: 20 years 
+
+Annual loan payment (20 years): ~$124,000
+
+Projected annual profit (full ramp): $226,500
+
+Profit After Debt Service and Taxes:
+- Pre-tax profit after loan payment: $226,500 - $124,000 = $102,500
+- Estimated taxes (25%): $25,625
+- Net profit after taxes and loan payment: $76,875
+
+Payback Analysis:
+- Year 1: 40% of profit ($90,600) — may not cover loan payment, may require interest-only or deferred payments
+- Year 2: 80% of profit ($181,200) — covers payment, some cash flow margin
+- Year 3+: 100% of profit ($226,500) — covers payment, positive net profit
+
+Estimated payback period (ignoring interest):
+- $1,500,000 / $226,500 ≈ 6.6 years
+
+With loan interest:
+- Full loan repaid after 20 years of payments (standard amortizing schedule)
+- Real “payback” from profits: 7–10 years, depending on ramp-up, cash reserves, and reinvestment
+
+**Notes:**
+- Early years may require additional working capital or interest-only loan structure
+- Actual terms and rates will depend on lender, credit, and collateral
+- Consider building in a cash cushion for slow ramp or unforeseen expenses
+- Tax rate is an estimate; consult an accountant for your specific scenario
